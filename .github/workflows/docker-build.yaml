@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: python-helloworld-repo/python-helloworld:latest
+          tags: kklaus1616/python-helloworld-repo:latest
